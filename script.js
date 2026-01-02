@@ -1,5 +1,5 @@
-const apikey = "d8025a9581600b516bba45f7913286a5";
-const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+const apikey = "";
+const apiurl = "";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
@@ -53,3 +53,4 @@ searchBox.addEventListener("keyup", (e) => {
     }
 });
 // checkweather("");
+
